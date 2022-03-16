@@ -1,1 +1,1 @@
-This is my repository for practice typescript skill from https://github.com/type-challenges/type-challenges.
+This is my repository for practice typescript skill from https://github.com/type-challenges/type-challenges
